@@ -1,0 +1,6 @@
+{
+  "url": "https://developer.paypal.com/docs/online/",
+  "title": "Set up online and mobile payment gateway integration",
+  "content": "FeedbackHomeOnlineIn-PersonMultiparty3rd PartyPayoutsDisputesReportsIdentityDocs ArchiveVideoOnlineCheckoutSubscriptionsInvoicingDonateRegionalOnline/ Online OpenAI iconAsk ChatGPT   Set up online and mobile payment gateway integrationDOCSLast updated: Feb 27th, 8:14am   Build an online and mobile payments solution using the PayPal JavaScript SDK and REST APIs.CheckoutScalable checkout solutions for web and mobileGet startedSubscriptionsAdd billing or recurring payments to your checkoutGet StartedInvoicingSet up and send custom invoicesGet started   Regional SolutionsExplore payment solutions targeted for specific countries/regions.\n\n\n\n\n\n\n\nReferencePayPal.comPrivacyCookiesSupportLegalContactIf you accept cookies, we\u2019ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn moreAcceptDecline",
+  "code_examples": []
+}

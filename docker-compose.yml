@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  payment-agent:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - LLM_API_KEY=${LLM_API_KEY}
+    restart: unless-stopped

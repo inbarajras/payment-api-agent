@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Set up online and mobile payment gateway integration",
+    "url": "https://developer.paypal.com/docs/online/",
+    "chunks": [
+      "FeedbackHomeOnlineIn-PersonMultiparty3rd PartyPayoutsDisputesReportsIdentityDocs ArchiveVideoOnlineCheckoutSubscriptionsInvoicingDonateRegionalOnline/ Online OpenAI iconAsk ChatGPT Set up online and mobile payment gateway integrationDOCSLast updated: Feb 27th, 8:14am Build an online and mobile payments solution using the PayPal JavaScript SDK and REST APIs.CheckoutScalable checkout solutions for web and mobileGet startedSubscriptionsAdd billing or recurring payments to your checkoutGet StartedInvoicingSet up and send custom invoicesGet started Regional SolutionsExplore payment solutions targeted for specific countries/regions. ReferencePayPal.comPrivacyCookiesSupportLegalContactIf you accept cookies, we\u2019ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn moreAcceptDecline"
+    ],
+    "code_examples": [],
+    "category": "payment_processing"
+  },
+  {
+    "title": "3rd Party Solutions Overview",
+    "url": "https://developer.paypal.com/docs/3rd-party/",
+    "chunks": [
+      "3rd Party Solutions 3rd Party Solutions OverviewDocsCurrentLast updated: May 18th 2022, @ 4:02:27 pmFeedback\u00e2\u0080\u008b Integrate PayPal with a 3rd-party shopping cart plugin solution.Choose a 3rd-party solutionPartnersFind a partnerVisit our partner directory to see a full list of shopping carts, specialty platforms, marketplaces, and financial management systems with PayPal built in.PluginsFind a pluginConnect PayPal or Braintree payments to your system with a no-code plugin."
+    ],
+    "code_examples": [],
+    "category": "authentication"
+  },
+  {
+    "title": "Add package tracking to orders",
+    "url": "https://developer.paypal.com/docs/tracking/",
+    "chunks": [
+      "FeedbackHomeOnlineIn-PersonMultiparty3rd PartyPayoutsDisputesReportsIdentityDocs ArchiveVideoAdd Package TrackingOrders APITracking APIReferenceHome/ Add Package Tracking OpenAI iconAsk ChatGPTAdd package tracking to ordersAPICurrentLast updated: Aug 15th, 7:07amThere are 2 ways to add package tracking to orders. The integration method you use depends on your checkout integration: If you are using the Orders v2 API, integrate package tracking directly through the Orders v2 API. If you have a legacy integration that doesn't use the Orders v2 API, integrate package tracking through the Add Shipping Tracking API. ReferencePayPal.comPrivacyCookiesSupportLegalContactIf you accept cookies, we\u2019ll use them to improve and customize your experience and enable our partners to show you personalized PayPal ads when you visit other sites. Manage cookies and learn moreAcceptDecline"
+    ],
+    "code_examples": [],
+    "category": "payment_processing"
+  }
+]
